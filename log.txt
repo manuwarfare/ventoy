@@ -1,0 +1,1429 @@
+[2024/07/31 10:44:26] 
+[2024/07/31 10:44:26] =========================================================
+[2024/07/31 10:44:26] =========================================================
+[2024/07/31 10:44:26] =============== VentoyGui x86_64 ===============
+[2024/07/31 10:44:26] =========================================================
+[2024/07/31 10:44:26] =========================================================
+[2024/07/31 10:44:26] log file is <log.txt>
+[2024/07/31 10:44:26] pid:21222 ppid:20651 uid:1000 euid:1000
+[2024/07/31 10:44:26] adjust dir:1  current path:/home/manuelguerra/packages/Ventoy (copia)/LinuxGUI
+[2024/07/31 10:44:26] =========RAW ARGS BEGIN===========
+[2024/07/31 10:44:26] argv[0]=<./VentoyGUI.x86_64>
+[2024/07/31 10:44:26] =========RAW ARGS END===========
+[2024/07/31 10:44:26] Please run under the correct directory!
+[2024/07/31 10:44:56] 
+[2024/07/31 10:44:56] =========================================================
+[2024/07/31 10:44:56] =========================================================
+[2024/07/31 10:44:56] =============== VentoyGui x86_64 ===============
+[2024/07/31 10:44:56] =========================================================
+[2024/07/31 10:44:56] =========================================================
+[2024/07/31 10:44:56] log file is <log.txt>
+[2024/07/31 10:44:56] pid:21226 ppid:1083 uid:1000 euid:1000
+[2024/07/31 10:44:56] adjust dir:0  current path:/home/manuelguerra/packages/Ventoy (copia)/LinuxGUI
+[2024/07/31 10:44:56] =========RAW ARGS BEGIN===========
+[2024/07/31 10:44:56] argv[0]=</home/manuelguerra/packages/Ventoy (copia)/LinuxGUI/VentoyGUI.x86_64>
+[2024/07/31 10:44:56] =========RAW ARGS END===========
+[2024/07/31 10:44:56] Please run under the correct directory!
+[2024/07/31 10:45:59] 
+[2024/07/31 10:45:59] =========================================================
+[2024/07/31 10:45:59] =========================================================
+[2024/07/31 10:45:59] =============== VentoyGui x86_64 ===============
+[2024/07/31 10:45:59] =========================================================
+[2024/07/31 10:45:59] =========================================================
+[2024/07/31 10:45:59] log file is <log.txt>
+[2024/07/31 10:45:59] pid:21233 ppid:20651 uid:1000 euid:1000
+[2024/07/31 10:45:59] adjust dir:1  current path:/home/manuelguerra/packages/Ventoy (copia)/LinuxGUI
+[2024/07/31 10:45:59] =========RAW ARGS BEGIN===========
+[2024/07/31 10:45:59] argv[0]=<./VentoyGUI.x86_64>
+[2024/07/31 10:45:59] =========RAW ARGS END===========
+[2024/07/31 10:45:59] Please run under the correct directory!
+[2024/07/31 10:46:19] 
+[2024/07/31 10:46:19] =========================================================
+[2024/07/31 10:46:19] =========================================================
+[2024/07/31 10:46:19] =============== VentoyGui x86_64 ===============
+[2024/07/31 10:46:19] =========================================================
+[2024/07/31 10:46:19] =========================================================
+[2024/07/31 10:46:19] log file is <log.txt>
+[2024/07/31 10:46:19] pid:21236 ppid:20651 uid:1000 euid:1000
+[2024/07/31 10:46:19] adjust dir:1  current path:/home/manuelguerra/packages/Ventoy (copia)/LinuxGUI
+[2024/07/31 10:46:19] =========RAW ARGS BEGIN===========
+[2024/07/31 10:46:19] argv[0]=<./VentoyGUI.x86_64>
+[2024/07/31 10:46:19] =========RAW ARGS END===========
+[2024/07/31 10:46:19] Please run under the correct directory!
+[2024/07/31 11:17:25] 
+[2024/07/31 11:17:25] =========================================================
+[2024/07/31 11:17:25] =========================================================
+[2024/07/31 11:17:25] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:17:25] =========================================================
+[2024/07/31 11:17:25] =========================================================
+[2024/07/31 11:17:25] log file is <log.txt>
+[2024/07/31 11:17:25] pid:23734 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:17:25] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:17:25] =========RAW ARGS BEGIN===========
+[2024/07/31 11:17:25] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:17:25] =========RAW ARGS END===========
+[2024/07/31 11:17:25] uname -m <x86_64> 64bit
+[2024/07/31 11:17:25] Build bit is 64 (x86_64)
+[2024/07/31 11:17:25] Now detect the GUI type ...
+[2024/07/31 11:17:25] 1302 libs found in cache format 1
+[2024/07/31 11:17:25] LIB:<libgtk-4.so.1>
+[2024/07/31 11:17:25] LIB:<libgtk-3.so.0>
+[2024/07/31 11:17:25] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:17:25] ldconfig lib flags 0x7
+[2024/07/31 11:17:25] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:17:25] This is gtk3 X environment.
+[2024/07/31 11:17:25] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:17:25] execute permission check success.
+[2024/07/31 11:17:25] EUID check failed.
+[2024/07/31 11:17:25] try restart self by pkexec ...
+[2024/07/31 11:17:25] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 11:17:25] create environment param 42
+[2024/07/31 11:17:25] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 11:17:25] argv[0]=</usr/bin/pkexec>
+[2024/07/31 11:17:25] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:17:25] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=23734
+>
+[2024/07/31 11:17:25] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 11:17:25] =========PKEXEC ARGS END===========
+[2024/07/31 11:17:32] 
+[2024/07/31 11:17:32] =========================================================
+[2024/07/31 11:17:32] =========================================================
+[2024/07/31 11:17:32] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:17:32] =========================================================
+[2024/07/31 11:17:32] =========================================================
+[2024/07/31 11:17:32] log file is <log.txt>
+[2024/07/31 11:17:32] pid:23734 ppid:1083 uid:0 euid:0
+[2024/07/31 11:17:32] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:17:32] =========RAW ARGS BEGIN===========
+[2024/07/31 11:17:32] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:17:32] argv[1]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=23734
+>
+[2024/07/31 11:17:32] argv[2]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 11:17:32] =========RAW ARGS END===========
+[2024/07/31 11:17:32] recover environ 42 42
+[2024/07/31 11:17:32] recover success, argc=1 evecve </home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 11:17:32] =========EXECVE ARGS BEGIN===========
+[2024/07/31 11:17:32] argv[0]=</home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 11:17:32] =========EXECVE ARGS END===========
+[2024/07/31 11:17:33] ================================================
+[2024/07/31 11:17:33] ===== Ventoy2Disk 1.0.99 powered by GTK3.x =====
+[2024/07/31 11:17:33] ================================================
+[2024/07/31 11:17:33] log file is <log.txt> lastsize:9531
+[2024/07/31 11:17:33] ini file is <./Ventoy2Disk.ini>
+[2024/07/31 11:17:33] ventoy_disk_enumerate_all
+[2024/07/31 11:17:33] get disk info sda
+[2024/07/31 11:17:33] is 4k native disk <sda> <0>
+[2024/07/31 11:17:33] get disk size from sysfs for sda
+[2024/07/31 11:17:33] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 11:17:33] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 11:17:33] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 11:17:33] /dev/sda NO Ventoy detected
+[2024/07/31 11:17:33] ============= DISK DUMP ============
+[2024/07/31 11:17:33] /dev/sda [30 GB] ATA QEMU HARDDISK (scsi)	Ventoy: NA
+[2024/07/31 11:17:33] on_init_window ...
+[2024/07/31 11:17:33] load_languages ...
+[2024/07/31 11:17:33] current language <English (English)>
+[2024/07/31 11:17:33] fill_dev_list total disk: 1 showall:0
+[2024/07/31 11:17:33] combox count:0, no active id
+[2024/07/31 11:17:33] invalid active combox id -1
+[2024/07/31 11:17:52] on_exit_window ...
+[2024/07/31 11:17:52] ######## Ventoy2Disk GTK 1.0.99 exit ########
+[2024/07/31 11:37:15] 
+[2024/07/31 11:37:15] =========================================================
+[2024/07/31 11:37:15] =========================================================
+[2024/07/31 11:37:15] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:37:15] =========================================================
+[2024/07/31 11:37:15] =========================================================
+[2024/07/31 11:37:15] log file is <log.txt>
+[2024/07/31 11:37:15] pid:24742 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:37:15] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:37:15] =========RAW ARGS BEGIN===========
+[2024/07/31 11:37:15] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:37:15] =========RAW ARGS END===========
+[2024/07/31 11:37:15] uname -m <x86_64> 64bit
+[2024/07/31 11:37:15] Build bit is 64 (x86_64)
+[2024/07/31 11:37:15] Now detect the GUI type ...
+[2024/07/31 11:37:15] 1302 libs found in cache format 1
+[2024/07/31 11:37:15] LIB:<libgtk-4.so.1>
+[2024/07/31 11:37:15] LIB:<libgtk-3.so.0>
+[2024/07/31 11:37:15] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:37:15] ldconfig lib flags 0x7
+[2024/07/31 11:37:15] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:37:15] This is gtk3 X environment.
+[2024/07/31 11:37:15] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:37:15] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:37:18] 
+[2024/07/31 11:37:18] =========================================================
+[2024/07/31 11:37:18] =========================================================
+[2024/07/31 11:37:18] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:37:18] =========================================================
+[2024/07/31 11:37:18] =========================================================
+[2024/07/31 11:37:18] log file is <log.txt>
+[2024/07/31 11:37:18] pid:24745 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:37:18] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:37:18] =========RAW ARGS BEGIN===========
+[2024/07/31 11:37:18] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:37:18] =========RAW ARGS END===========
+[2024/07/31 11:37:18] uname -m <x86_64> 64bit
+[2024/07/31 11:37:18] Build bit is 64 (x86_64)
+[2024/07/31 11:37:18] Now detect the GUI type ...
+[2024/07/31 11:37:18] 1302 libs found in cache format 1
+[2024/07/31 11:37:18] LIB:<libgtk-4.so.1>
+[2024/07/31 11:37:18] LIB:<libgtk-3.so.0>
+[2024/07/31 11:37:18] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:37:18] ldconfig lib flags 0x7
+[2024/07/31 11:37:18] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:37:18] This is gtk3 X environment.
+[2024/07/31 11:37:18] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:37:18] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:37:33] 
+[2024/07/31 11:37:33] =========================================================
+[2024/07/31 11:37:33] =========================================================
+[2024/07/31 11:37:33] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:37:33] =========================================================
+[2024/07/31 11:37:33] =========================================================
+[2024/07/31 11:37:33] log file is <log.txt>
+[2024/07/31 11:37:33] pid:24760 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:37:33] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:37:33] =========RAW ARGS BEGIN===========
+[2024/07/31 11:37:33] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:37:33] =========RAW ARGS END===========
+[2024/07/31 11:37:33] uname -m <x86_64> 64bit
+[2024/07/31 11:37:33] Build bit is 64 (x86_64)
+[2024/07/31 11:37:33] Now detect the GUI type ...
+[2024/07/31 11:37:33] 1302 libs found in cache format 1
+[2024/07/31 11:37:33] LIB:<libgtk-4.so.1>
+[2024/07/31 11:37:33] LIB:<libgtk-3.so.0>
+[2024/07/31 11:37:33] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:37:33] ldconfig lib flags 0x7
+[2024/07/31 11:37:33] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:37:33] This is gtk3 X environment.
+[2024/07/31 11:37:33] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:37:33] execute permission check success.
+[2024/07/31 11:37:33] EUID check failed.
+[2024/07/31 11:37:33] try restart self by pkexec ...
+[2024/07/31 11:37:33] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 11:37:33] create environment param 42
+[2024/07/31 11:37:33] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 11:37:33] argv[0]=</usr/bin/pkexec>
+[2024/07/31 11:37:33] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:37:33] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=24760
+>
+[2024/07/31 11:37:33] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 11:37:33] =========PKEXEC ARGS END===========
+[2024/07/31 11:37:48] 
+[2024/07/31 11:37:48] =========================================================
+[2024/07/31 11:37:48] =========================================================
+[2024/07/31 11:37:48] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:37:48] =========================================================
+[2024/07/31 11:37:48] =========================================================
+[2024/07/31 11:37:48] log file is <log.txt>
+[2024/07/31 11:37:48] pid:24776 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:37:48] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:37:48] =========RAW ARGS BEGIN===========
+[2024/07/31 11:37:48] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:37:48] =========RAW ARGS END===========
+[2024/07/31 11:37:48] uname -m <x86_64> 64bit
+[2024/07/31 11:37:48] Build bit is 64 (x86_64)
+[2024/07/31 11:37:48] Now detect the GUI type ...
+[2024/07/31 11:37:48] 1302 libs found in cache format 1
+[2024/07/31 11:37:48] LIB:<libgtk-4.so.1>
+[2024/07/31 11:37:48] LIB:<libgtk-3.so.0>
+[2024/07/31 11:37:48] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:37:48] ldconfig lib flags 0x7
+[2024/07/31 11:37:48] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:37:48] This is gtk3 X environment.
+[2024/07/31 11:37:48] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:37:48] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:37:51] 
+[2024/07/31 11:37:51] =========================================================
+[2024/07/31 11:37:51] =========================================================
+[2024/07/31 11:37:51] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:37:51] =========================================================
+[2024/07/31 11:37:51] =========================================================
+[2024/07/31 11:37:51] log file is <log.txt>
+[2024/07/31 11:37:51] pid:24782 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:37:51] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:37:51] =========RAW ARGS BEGIN===========
+[2024/07/31 11:37:51] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:37:51] =========RAW ARGS END===========
+[2024/07/31 11:37:51] uname -m <x86_64> 64bit
+[2024/07/31 11:37:51] Build bit is 64 (x86_64)
+[2024/07/31 11:37:51] Now detect the GUI type ...
+[2024/07/31 11:37:51] 1302 libs found in cache format 1
+[2024/07/31 11:37:51] LIB:<libgtk-4.so.1>
+[2024/07/31 11:37:51] LIB:<libgtk-3.so.0>
+[2024/07/31 11:37:51] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:37:51] ldconfig lib flags 0x7
+[2024/07/31 11:37:51] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:37:51] This is gtk3 X environment.
+[2024/07/31 11:37:51] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:37:51] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:37:51] 
+[2024/07/31 11:37:51] =========================================================
+[2024/07/31 11:37:51] =========================================================
+[2024/07/31 11:37:51] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:37:51] =========================================================
+[2024/07/31 11:37:51] =========================================================
+[2024/07/31 11:37:51] log file is <log.txt>
+[2024/07/31 11:37:51] pid:24786 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:37:51] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:37:51] =========RAW ARGS BEGIN===========
+[2024/07/31 11:37:51] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:37:51] =========RAW ARGS END===========
+[2024/07/31 11:37:51] uname -m <x86_64> 64bit
+[2024/07/31 11:37:51] Build bit is 64 (x86_64)
+[2024/07/31 11:37:51] Now detect the GUI type ...
+[2024/07/31 11:37:51] 1302 libs found in cache format 1
+[2024/07/31 11:37:51] LIB:<libgtk-4.so.1>
+[2024/07/31 11:37:51] LIB:<libgtk-3.so.0>
+[2024/07/31 11:37:51] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:37:51] ldconfig lib flags 0x7
+[2024/07/31 11:37:51] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:37:51] This is gtk3 X environment.
+[2024/07/31 11:37:51] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:37:51] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:38:41] 
+[2024/07/31 11:38:41] =========================================================
+[2024/07/31 11:38:41] =========================================================
+[2024/07/31 11:38:41] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:38:41] =========================================================
+[2024/07/31 11:38:41] =========================================================
+[2024/07/31 11:38:41] log file is <log.txt>
+[2024/07/31 11:38:41] pid:24794 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:38:41] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:38:41] =========RAW ARGS BEGIN===========
+[2024/07/31 11:38:41] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:38:41] =========RAW ARGS END===========
+[2024/07/31 11:38:41] uname -m <x86_64> 64bit
+[2024/07/31 11:38:41] Build bit is 64 (x86_64)
+[2024/07/31 11:38:41] Now detect the GUI type ...
+[2024/07/31 11:38:41] 1302 libs found in cache format 1
+[2024/07/31 11:38:41] LIB:<libgtk-4.so.1>
+[2024/07/31 11:38:41] LIB:<libgtk-3.so.0>
+[2024/07/31 11:38:41] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:38:41] ldconfig lib flags 0x7
+[2024/07/31 11:38:41] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:38:41] This is gtk3 X environment.
+[2024/07/31 11:38:41] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:38:41] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:38:42] 
+[2024/07/31 11:38:42] =========================================================
+[2024/07/31 11:38:42] =========================================================
+[2024/07/31 11:38:42] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:38:42] =========================================================
+[2024/07/31 11:38:42] =========================================================
+[2024/07/31 11:38:42] log file is <log.txt>
+[2024/07/31 11:38:42] pid:24798 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:38:42] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:38:42] =========RAW ARGS BEGIN===========
+[2024/07/31 11:38:42] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:38:42] =========RAW ARGS END===========
+[2024/07/31 11:38:42] uname -m <x86_64> 64bit
+[2024/07/31 11:38:42] Build bit is 64 (x86_64)
+[2024/07/31 11:38:42] Now detect the GUI type ...
+[2024/07/31 11:38:42] 1302 libs found in cache format 1
+[2024/07/31 11:38:42] LIB:<libgtk-4.so.1>
+[2024/07/31 11:38:42] LIB:<libgtk-3.so.0>
+[2024/07/31 11:38:42] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:38:42] ldconfig lib flags 0x7
+[2024/07/31 11:38:42] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:38:42] This is gtk3 X environment.
+[2024/07/31 11:38:42] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:38:42] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:39:20] 
+[2024/07/31 11:39:20] =========================================================
+[2024/07/31 11:39:20] =========================================================
+[2024/07/31 11:39:20] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:39:20] =========================================================
+[2024/07/31 11:39:20] =========================================================
+[2024/07/31 11:39:20] log file is <log.txt>
+[2024/07/31 11:39:20] pid:24805 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:39:20] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:39:20] =========RAW ARGS BEGIN===========
+[2024/07/31 11:39:20] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:39:20] =========RAW ARGS END===========
+[2024/07/31 11:39:20] uname -m <x86_64> 64bit
+[2024/07/31 11:39:20] Build bit is 64 (x86_64)
+[2024/07/31 11:39:20] Now detect the GUI type ...
+[2024/07/31 11:39:20] 1302 libs found in cache format 1
+[2024/07/31 11:39:20] LIB:<libgtk-4.so.1>
+[2024/07/31 11:39:20] LIB:<libgtk-3.so.0>
+[2024/07/31 11:39:20] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:39:20] ldconfig lib flags 0x7
+[2024/07/31 11:39:20] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:39:20] This is gtk3 X environment.
+[2024/07/31 11:39:20] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:39:20] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:39:22] 
+[2024/07/31 11:39:22] =========================================================
+[2024/07/31 11:39:22] =========================================================
+[2024/07/31 11:39:22] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:39:22] =========================================================
+[2024/07/31 11:39:22] =========================================================
+[2024/07/31 11:39:22] log file is <log.txt>
+[2024/07/31 11:39:22] pid:24809 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:39:22] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:39:22] =========RAW ARGS BEGIN===========
+[2024/07/31 11:39:22] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:39:22] =========RAW ARGS END===========
+[2024/07/31 11:39:22] uname -m <x86_64> 64bit
+[2024/07/31 11:39:22] Build bit is 64 (x86_64)
+[2024/07/31 11:39:22] Now detect the GUI type ...
+[2024/07/31 11:39:22] 1302 libs found in cache format 1
+[2024/07/31 11:39:22] LIB:<libgtk-4.so.1>
+[2024/07/31 11:39:22] LIB:<libgtk-3.so.0>
+[2024/07/31 11:39:22] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:39:22] ldconfig lib flags 0x7
+[2024/07/31 11:39:22] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:39:22] This is gtk3 X environment.
+[2024/07/31 11:39:22] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:39:22] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:39:47] 
+[2024/07/31 11:39:47] =========================================================
+[2024/07/31 11:39:47] =========================================================
+[2024/07/31 11:39:47] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:39:47] =========================================================
+[2024/07/31 11:39:47] =========================================================
+[2024/07/31 11:39:47] log file is <log.txt>
+[2024/07/31 11:39:47] pid:24815 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:39:47] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:39:47] =========RAW ARGS BEGIN===========
+[2024/07/31 11:39:47] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:39:47] =========RAW ARGS END===========
+[2024/07/31 11:39:47] uname -m <x86_64> 64bit
+[2024/07/31 11:39:47] Build bit is 64 (x86_64)
+[2024/07/31 11:39:47] Now detect the GUI type ...
+[2024/07/31 11:39:47] 1302 libs found in cache format 1
+[2024/07/31 11:39:47] LIB:<libgtk-4.so.1>
+[2024/07/31 11:39:47] LIB:<libgtk-3.so.0>
+[2024/07/31 11:39:47] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:39:47] ldconfig lib flags 0x7
+[2024/07/31 11:39:47] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:39:47] This is gtk3 X environment.
+[2024/07/31 11:39:47] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:39:47] execute permission check success.
+[2024/07/31 11:39:47] EUID check failed.
+[2024/07/31 11:39:47] try restart self by pkexec ...
+[2024/07/31 11:39:47] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 11:39:47] create environment param 42
+[2024/07/31 11:39:47] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 11:39:47] argv[0]=</usr/bin/pkexec>
+[2024/07/31 11:39:47] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:39:47] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=24815
+>
+[2024/07/31 11:39:47] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 11:39:47] =========PKEXEC ARGS END===========
+[2024/07/31 11:40:13] 
+[2024/07/31 11:40:13] =========================================================
+[2024/07/31 11:40:13] =========================================================
+[2024/07/31 11:40:13] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:40:13] =========================================================
+[2024/07/31 11:40:13] =========================================================
+[2024/07/31 11:40:13] log file is <log.txt>
+[2024/07/31 11:40:13] pid:24826 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:40:13] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:40:13] =========RAW ARGS BEGIN===========
+[2024/07/31 11:40:13] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:40:13] =========RAW ARGS END===========
+[2024/07/31 11:40:13] uname -m <x86_64> 64bit
+[2024/07/31 11:40:13] Build bit is 64 (x86_64)
+[2024/07/31 11:40:13] Now detect the GUI type ...
+[2024/07/31 11:40:13] 1302 libs found in cache format 1
+[2024/07/31 11:40:13] LIB:<libgtk-4.so.1>
+[2024/07/31 11:40:13] LIB:<libgtk-3.so.0>
+[2024/07/31 11:40:13] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:40:13] ldconfig lib flags 0x7
+[2024/07/31 11:40:13] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:40:13] This is gtk3 X environment.
+[2024/07/31 11:40:13] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:40:13] execute permission check success.
+[2024/07/31 11:40:13] EUID check failed.
+[2024/07/31 11:40:13] try restart self by pkexec ...
+[2024/07/31 11:40:13] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 11:40:13] create environment param 42
+[2024/07/31 11:40:13] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 11:40:13] argv[0]=</usr/bin/pkexec>
+[2024/07/31 11:40:13] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:40:13] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=24826
+>
+[2024/07/31 11:40:13] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 11:40:13] =========PKEXEC ARGS END===========
+[2024/07/31 11:41:43] 
+[2024/07/31 11:41:43] =========================================================
+[2024/07/31 11:41:43] =========================================================
+[2024/07/31 11:41:43] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:41:43] =========================================================
+[2024/07/31 11:41:43] =========================================================
+[2024/07/31 11:41:43] log file is <log.txt>
+[2024/07/31 11:41:43] pid:24881 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:41:43] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:41:43] =========RAW ARGS BEGIN===========
+[2024/07/31 11:41:43] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:41:43] =========RAW ARGS END===========
+[2024/07/31 11:41:43] uname -m <x86_64> 64bit
+[2024/07/31 11:41:43] Build bit is 64 (x86_64)
+[2024/07/31 11:41:43] Now detect the GUI type ...
+[2024/07/31 11:41:43] 1302 libs found in cache format 1
+[2024/07/31 11:41:43] LIB:<libgtk-4.so.1>
+[2024/07/31 11:41:43] LIB:<libgtk-3.so.0>
+[2024/07/31 11:41:43] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:41:43] ldconfig lib flags 0x7
+[2024/07/31 11:41:43] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:41:43] This is gtk3 X environment.
+[2024/07/31 11:41:43] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:41:43] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:41:45] 
+[2024/07/31 11:41:45] =========================================================
+[2024/07/31 11:41:45] =========================================================
+[2024/07/31 11:41:45] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:41:45] =========================================================
+[2024/07/31 11:41:45] =========================================================
+[2024/07/31 11:41:45] log file is <log.txt>
+[2024/07/31 11:41:45] pid:24885 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:41:45] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:41:45] =========RAW ARGS BEGIN===========
+[2024/07/31 11:41:45] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:41:45] =========RAW ARGS END===========
+[2024/07/31 11:41:45] uname -m <x86_64> 64bit
+[2024/07/31 11:41:45] Build bit is 64 (x86_64)
+[2024/07/31 11:41:45] Now detect the GUI type ...
+[2024/07/31 11:41:45] 1302 libs found in cache format 1
+[2024/07/31 11:41:45] LIB:<libgtk-4.so.1>
+[2024/07/31 11:41:45] LIB:<libgtk-3.so.0>
+[2024/07/31 11:41:45] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:41:45] ldconfig lib flags 0x7
+[2024/07/31 11:41:45] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:41:45] This is gtk3 X environment.
+[2024/07/31 11:41:45] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:41:45] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:41:46] 
+[2024/07/31 11:41:46] =========================================================
+[2024/07/31 11:41:46] =========================================================
+[2024/07/31 11:41:46] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:41:46] =========================================================
+[2024/07/31 11:41:46] =========================================================
+[2024/07/31 11:41:46] log file is <log.txt>
+[2024/07/31 11:41:46] pid:24889 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:41:46] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:41:46] =========RAW ARGS BEGIN===========
+[2024/07/31 11:41:46] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:41:46] =========RAW ARGS END===========
+[2024/07/31 11:41:46] uname -m <x86_64> 64bit
+[2024/07/31 11:41:46] Build bit is 64 (x86_64)
+[2024/07/31 11:41:46] Now detect the GUI type ...
+[2024/07/31 11:41:46] 1302 libs found in cache format 1
+[2024/07/31 11:41:46] LIB:<libgtk-4.so.1>
+[2024/07/31 11:41:46] LIB:<libgtk-3.so.0>
+[2024/07/31 11:41:46] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:41:46] ldconfig lib flags 0x7
+[2024/07/31 11:41:46] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:41:46] This is gtk3 X environment.
+[2024/07/31 11:41:46] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:41:46] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+############# Ventoy2Disk  [x86_64] ################
+sáb 31 ago 2024 11:42:18 -04
+decompress tools
+[2024/07/31 11:54:15] 
+[2024/07/31 11:54:15] =========================================================
+[2024/07/31 11:54:15] =========================================================
+[2024/07/31 11:54:15] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:54:15] =========================================================
+[2024/07/31 11:54:15] =========================================================
+[2024/07/31 11:54:15] log file is <log.txt>
+[2024/07/31 11:54:15] pid:25483 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:54:15] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:54:15] =========RAW ARGS BEGIN===========
+[2024/07/31 11:54:15] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:54:15] =========RAW ARGS END===========
+[2024/07/31 11:54:15] uname -m <x86_64> 64bit
+[2024/07/31 11:54:15] Build bit is 64 (x86_64)
+[2024/07/31 11:54:15] Now detect the GUI type ...
+[2024/07/31 11:54:15] 1302 libs found in cache format 1
+[2024/07/31 11:54:15] LIB:<libgtk-4.so.1>
+[2024/07/31 11:54:15] LIB:<libgtk-3.so.0>
+[2024/07/31 11:54:15] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:54:15] ldconfig lib flags 0x7
+[2024/07/31 11:54:15] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:54:15] This is gtk3 X environment.
+[2024/07/31 11:54:15] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:54:15] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:54:18] 
+[2024/07/31 11:54:18] =========================================================
+[2024/07/31 11:54:18] =========================================================
+[2024/07/31 11:54:18] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:54:18] =========================================================
+[2024/07/31 11:54:18] =========================================================
+[2024/07/31 11:54:18] log file is <log.txt>
+[2024/07/31 11:54:18] pid:25487 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:54:18] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:54:18] =========RAW ARGS BEGIN===========
+[2024/07/31 11:54:18] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:54:18] =========RAW ARGS END===========
+[2024/07/31 11:54:18] uname -m <x86_64> 64bit
+[2024/07/31 11:54:18] Build bit is 64 (x86_64)
+[2024/07/31 11:54:18] Now detect the GUI type ...
+[2024/07/31 11:54:18] 1302 libs found in cache format 1
+[2024/07/31 11:54:18] LIB:<libgtk-4.so.1>
+[2024/07/31 11:54:18] LIB:<libgtk-3.so.0>
+[2024/07/31 11:54:18] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:54:18] ldconfig lib flags 0x7
+[2024/07/31 11:54:18] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:54:18] This is gtk3 X environment.
+[2024/07/31 11:54:18] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:54:18] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:54:18] 
+[2024/07/31 11:54:18] =========================================================
+[2024/07/31 11:54:18] =========================================================
+[2024/07/31 11:54:18] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:54:18] =========================================================
+[2024/07/31 11:54:18] =========================================================
+[2024/07/31 11:54:18] log file is <log.txt>
+[2024/07/31 11:54:18] pid:25491 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:54:18] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:54:18] =========RAW ARGS BEGIN===========
+[2024/07/31 11:54:18] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:54:18] =========RAW ARGS END===========
+[2024/07/31 11:54:18] uname -m <x86_64> 64bit
+[2024/07/31 11:54:18] Build bit is 64 (x86_64)
+[2024/07/31 11:54:18] Now detect the GUI type ...
+[2024/07/31 11:54:18] 1302 libs found in cache format 1
+[2024/07/31 11:54:18] LIB:<libgtk-4.so.1>
+[2024/07/31 11:54:18] LIB:<libgtk-3.so.0>
+[2024/07/31 11:54:18] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:54:18] ldconfig lib flags 0x7
+[2024/07/31 11:54:18] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:54:18] This is gtk3 X environment.
+[2024/07/31 11:54:18] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:54:18] /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3 is not exist.
+[2024/07/31 11:59:04] 
+[2024/07/31 11:59:04] =========================================================
+[2024/07/31 11:59:04] =========================================================
+[2024/07/31 11:59:04] =============== VentoyGui x86_64 ===============
+[2024/07/31 11:59:04] =========================================================
+[2024/07/31 11:59:04] =========================================================
+[2024/07/31 11:59:04] log file is <log.txt>
+[2024/07/31 11:59:04] pid:25680 ppid:1083 uid:1000 euid:1000
+[2024/07/31 11:59:04] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 11:59:04] =========RAW ARGS BEGIN===========
+[2024/07/31 11:59:04] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:59:04] =========RAW ARGS END===========
+[2024/07/31 11:59:04] uname -m <x86_64> 64bit
+[2024/07/31 11:59:04] Build bit is 64 (x86_64)
+[2024/07/31 11:59:04] Now detect the GUI type ...
+[2024/07/31 11:59:04] 1302 libs found in cache format 1
+[2024/07/31 11:59:04] LIB:<libgtk-4.so.1>
+[2024/07/31 11:59:04] LIB:<libgtk-3.so.0>
+[2024/07/31 11:59:04] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 11:59:04] ldconfig lib flags 0x7
+[2024/07/31 11:59:04] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 11:59:04] This is gtk3 X environment.
+[2024/07/31 11:59:04] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 11:59:04] execute permission check success.
+[2024/07/31 11:59:04] EUID check failed.
+[2024/07/31 11:59:04] try restart self by pkexec ...
+[2024/07/31 11:59:04] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 11:59:04] create environment param 42
+[2024/07/31 11:59:04] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 11:59:04] argv[0]=</usr/bin/pkexec>
+[2024/07/31 11:59:04] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 11:59:04] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=25680
+>
+[2024/07/31 11:59:04] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 11:59:04] =========PKEXEC ARGS END===========
+############# Ventoy2Disk  [x86_64] ################
+sáb 31 ago 2024 12:29:15 -04
+decompress tools
+[2024/07/31 12:31:06] 
+[2024/07/31 12:31:06] =========================================================
+[2024/07/31 12:31:06] =========================================================
+[2024/07/31 12:31:06] =============== VentoyGui x86_64 ===============
+[2024/07/31 12:31:06] =========================================================
+[2024/07/31 12:31:06] =========================================================
+[2024/07/31 12:31:06] log file is <log.txt>
+[2024/07/31 12:31:06] pid:26367 ppid:1083 uid:1000 euid:1000
+[2024/07/31 12:31:06] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 12:31:06] =========RAW ARGS BEGIN===========
+[2024/07/31 12:31:06] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 12:31:06] =========RAW ARGS END===========
+[2024/07/31 12:31:06] uname -m <x86_64> 64bit
+[2024/07/31 12:31:06] Build bit is 64 (x86_64)
+[2024/07/31 12:31:06] Now detect the GUI type ...
+[2024/07/31 12:31:06] 1302 libs found in cache format 1
+[2024/07/31 12:31:06] LIB:<libgtk-4.so.1>
+[2024/07/31 12:31:06] LIB:<libgtk-3.so.0>
+[2024/07/31 12:31:06] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 12:31:06] ldconfig lib flags 0x7
+[2024/07/31 12:31:06] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 12:31:06] This is gtk3 X environment.
+[2024/07/31 12:31:06] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 12:31:06] execute permission check success.
+[2024/07/31 12:31:06] EUID check failed.
+[2024/07/31 12:31:06] try restart self by pkexec ...
+[2024/07/31 12:31:06] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 12:31:06] create environment param 42
+[2024/07/31 12:31:06] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 12:31:06] argv[0]=</usr/bin/pkexec>
+[2024/07/31 12:31:06] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 12:31:06] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=26367
+>
+[2024/07/31 12:31:06] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 12:31:06] =========PKEXEC ARGS END===========
+############# Ventoy2Disk  [x86_64] ################
+sáb 31 ago 2024 12:45:37 -04
+decompress tools
+############# Ventoy2Disk  [x86_64] ################
+sáb 31 ago 2024 12:46:14 -04
+decompress tools
+############# Ventoy2Disk  [x86_64] ################
+sáb 31 ago 2024 12:47:07 -04
+decompress tools
+[2024/07/31 12:58:18] 
+[2024/07/31 12:58:18] =========================================================
+[2024/07/31 12:58:18] =========================================================
+[2024/07/31 12:58:18] =============== VentoyGui x86_64 ===============
+[2024/07/31 12:58:18] =========================================================
+[2024/07/31 12:58:18] =========================================================
+[2024/07/31 12:58:18] log file is <log.txt>
+[2024/07/31 12:58:18] pid:27500 ppid:1083 uid:1000 euid:1000
+[2024/07/31 12:58:18] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 12:58:18] =========RAW ARGS BEGIN===========
+[2024/07/31 12:58:18] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 12:58:18] =========RAW ARGS END===========
+[2024/07/31 12:58:18] uname -m <x86_64> 64bit
+[2024/07/31 12:58:18] Build bit is 64 (x86_64)
+[2024/07/31 12:58:18] Now detect the GUI type ...
+[2024/07/31 12:58:18] 1302 libs found in cache format 1
+[2024/07/31 12:58:18] LIB:<libgtk-4.so.1>
+[2024/07/31 12:58:18] LIB:<libgtk-3.so.0>
+[2024/07/31 12:58:18] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 12:58:18] ldconfig lib flags 0x7
+[2024/07/31 12:58:18] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 12:58:18] This is gtk3 X environment.
+[2024/07/31 12:58:18] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 12:58:18] execute permission check success.
+[2024/07/31 12:58:18] EUID check failed.
+[2024/07/31 12:58:18] try restart self by pkexec ...
+[2024/07/31 12:58:18] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 12:58:18] create environment param 42
+[2024/07/31 12:58:18] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 12:58:18] argv[0]=</usr/bin/pkexec>
+[2024/07/31 12:58:18] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 12:58:18] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=27500
+>
+[2024/07/31 12:58:18] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 12:58:18] =========PKEXEC ARGS END===========
+[2024/07/31 13:25:31] 
+[2024/07/31 13:25:31] =========================================================
+[2024/07/31 13:25:31] =========================================================
+[2024/07/31 13:25:31] =============== VentoyGui x86_64 ===============
+[2024/07/31 13:25:31] =========================================================
+[2024/07/31 13:25:31] =========================================================
+[2024/07/31 13:25:31] log file is <log.txt>
+[2024/07/31 13:25:31] pid:30260 ppid:1083 uid:1000 euid:1000
+[2024/07/31 13:25:31] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 13:25:31] =========RAW ARGS BEGIN===========
+[2024/07/31 13:25:31] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 13:25:31] =========RAW ARGS END===========
+[2024/07/31 13:25:31] uname -m <x86_64> 64bit
+[2024/07/31 13:25:31] Build bit is 64 (x86_64)
+[2024/07/31 13:25:31] Now detect the GUI type ...
+[2024/07/31 13:25:31] 1302 libs found in cache format 1
+[2024/07/31 13:25:31] LIB:<libgtk-4.so.1>
+[2024/07/31 13:25:31] LIB:<libgtk-3.so.0>
+[2024/07/31 13:25:31] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 13:25:31] ldconfig lib flags 0x7
+[2024/07/31 13:25:31] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 13:25:31] This is gtk3 X environment.
+[2024/07/31 13:25:31] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 13:25:31] execute permission check success.
+[2024/07/31 13:25:31] EUID check failed.
+[2024/07/31 13:25:31] try restart self by pkexec ...
+[2024/07/31 13:25:31] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 13:25:31] create environment param 42
+[2024/07/31 13:25:31] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 13:25:31] argv[0]=</usr/bin/pkexec>
+[2024/07/31 13:25:31] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 13:25:31] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=30260
+>
+[2024/07/31 13:25:31] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 13:25:31] =========PKEXEC ARGS END===========
+[2024/07/31 13:25:38] 
+[2024/07/31 13:25:38] =========================================================
+[2024/07/31 13:25:38] =========================================================
+[2024/07/31 13:25:38] =============== VentoyGui x86_64 ===============
+[2024/07/31 13:25:38] =========================================================
+[2024/07/31 13:25:38] =========================================================
+[2024/07/31 13:25:38] log file is <log.txt>
+[2024/07/31 13:25:38] pid:30260 ppid:1083 uid:0 euid:0
+[2024/07/31 13:25:38] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 13:25:38] =========RAW ARGS BEGIN===========
+[2024/07/31 13:25:38] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 13:25:38] argv[1]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=30260
+>
+[2024/07/31 13:25:38] argv[2]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 13:25:38] =========RAW ARGS END===========
+[2024/07/31 13:25:38] recover environ 42 42
+[2024/07/31 13:25:38] recover success, argc=1 evecve </home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 13:25:38] =========EXECVE ARGS BEGIN===========
+[2024/07/31 13:25:38] argv[0]=</home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 13:25:38] =========EXECVE ARGS END===========
+[2024/07/31 13:25:38] ================================================
+[2024/07/31 13:25:38] ===== Ventoy2Disk 1.0.99 powered by GTK3.x =====
+[2024/07/31 13:25:38] ================================================
+[2024/07/31 13:25:38] log file is <log.txt> lastsize:61283
+[2024/07/31 13:25:38] ini file is <./Ventoy2Disk.ini>
+[2024/07/31 13:25:38] ventoy_disk_enumerate_all
+[2024/07/31 13:25:38] get disk info sda
+[2024/07/31 13:25:38] is 4k native disk <sda> <0>
+[2024/07/31 13:25:38] get disk size from sysfs for sda
+[2024/07/31 13:25:38] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 13:25:38] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 13:25:38] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 13:25:38] /dev/sda NO Ventoy detected
+[2024/07/31 13:25:38] ============= DISK DUMP ============
+[2024/07/31 13:25:38] /dev/sda [30 GB] ATA QEMU HARDDISK (scsi)	Ventoy: NA
+[2024/07/31 13:25:38] on_init_window ...
+[2024/07/31 13:25:38] load_languages ...
+[2024/07/31 13:25:38] current language <English (English)>
+[2024/07/31 13:25:38] fill_dev_list total disk: 1 showall:0
+[2024/07/31 13:25:38] combox count:0, no active id
+[2024/07/31 13:25:38] invalid active combox id -1
+[2024/07/31 13:26:45] on_exit_window ...
+[2024/07/31 13:26:45] ######## Ventoy2Disk GTK 1.0.99 exit ########
+[2024/07/31 13:26:46] 
+[2024/07/31 13:26:46] =========================================================
+[2024/07/31 13:26:46] =========================================================
+[2024/07/31 13:26:46] =============== VentoyGui x86_64 ===============
+[2024/07/31 13:26:46] =========================================================
+[2024/07/31 13:26:46] =========================================================
+[2024/07/31 13:26:46] log file is <log.txt>
+[2024/07/31 13:26:46] pid:30283 ppid:1083 uid:1000 euid:1000
+[2024/07/31 13:26:46] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 13:26:46] =========RAW ARGS BEGIN===========
+[2024/07/31 13:26:46] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 13:26:46] =========RAW ARGS END===========
+[2024/07/31 13:26:46] uname -m <x86_64> 64bit
+[2024/07/31 13:26:46] Build bit is 64 (x86_64)
+[2024/07/31 13:26:46] Now detect the GUI type ...
+[2024/07/31 13:26:46] 1302 libs found in cache format 1
+[2024/07/31 13:26:46] LIB:<libgtk-4.so.1>
+[2024/07/31 13:26:46] LIB:<libgtk-3.so.0>
+[2024/07/31 13:26:46] LIB:<libgtk-x11-2.0.so.0>
+[2024/07/31 13:26:46] ldconfig lib flags 0x7
+[2024/07/31 13:26:46] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[NO] QT6:[NO]
+[2024/07/31 13:26:46] This is gtk3 X environment.
+[2024/07/31 13:26:46] exe = /home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3
+[2024/07/31 13:26:46] execute permission check success.
+[2024/07/31 13:26:46] EUID check failed.
+[2024/07/31 13:26:46] try restart self by pkexec ...
+[2024/07/31 13:26:46] Find pkexec at </usr/bin/pkexec>
+[2024/07/31 13:26:46] create environment param 42
+[2024/07/31 13:26:46] =========PKEXEC ARGS BEGIN===========
+[2024/07/31 13:26:46] argv[0]=</usr/bin/pkexec>
+[2024/07/31 13:26:46] argv[1]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 13:26:46] argv[2]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=30283
+>
+[2024/07/31 13:26:46] argv[3]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 13:26:46] =========PKEXEC ARGS END===========
+[2024/07/31 13:26:52] 
+[2024/07/31 13:26:52] =========================================================
+[2024/07/31 13:26:52] =========================================================
+[2024/07/31 13:26:52] =============== VentoyGui x86_64 ===============
+[2024/07/31 13:26:52] =========================================================
+[2024/07/31 13:26:52] =========================================================
+[2024/07/31 13:26:52] log file is <log.txt>
+[2024/07/31 13:26:52] pid:30283 ppid:1083 uid:0 euid:0
+[2024/07/31 13:26:52] adjust dir:0  current path:/home/manuelguerra/Descargas/ventoy-build
+[2024/07/31 13:26:52] =========RAW ARGS BEGIN===========
+[2024/07/31 13:26:52] argv[0]=</home/manuelguerra/Descargas/ventoy-build/VentoyGUI.x86_64>
+[2024/07/31 13:26:52] argv[1]=<_vtoy_env_str_=SHELL=/bin/bash
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+GNOME_SETUP_DISPLAY=:1
+SSH_AGENT_LAUNCHER=openssh
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=GNOME
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+DESKTOP_SESSION=gnome
+SESSION_MANAGER=local/debian12-uni:@/tmp/.ICE-unix/1231,unix/debian12-uni:/tmp/.ICE-unix/1231
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=gnome
+USERNAME=manuelguerra
+GTK_MODULES=gail:atk-bridge
+XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+XDG_SESSION_TYPE=wayland
+SYSTEMD_EXEC_PID=1231
+JOURNAL_STREAM=8:19479
+LANGUAGE=es_VE:es
+IM_CONFIG_PHASE=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=71991af8da5d250e79a3011e66d32506
+INVOCATION_ID=6ef059f1017c418d84633ac216aa551b
+XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P8MDT2
+QT_IM_MODULE=ibus
+XDG_SESSION_CLASS=user
+USER=manuelguerra
+DBUS_STARTER_BUS_TYPE=session
+WAYLAND_DISPLAY=wayland-0
+PWD=/home/manuelguerra
+GDM_LANG=es_VE.UTF-8
+SHLVL=0
+XDG_MENU_PREFIX=gnome-
+MANAGERPID=1083
+LANG=es_VE.UTF-8
+XDG_SESSION_DESKTOP=gnome
+_=/usr/bin/gnome-session
+HOME=/home/manuelguerra
+LOGNAME=manuelguerra
+GIO_LAUNCHED_DESKTOP_FILE_PID=30283
+>
+[2024/07/31 13:26:52] argv[2]=<_vtoy_gui_path_=/home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 13:26:52] =========RAW ARGS END===========
+[2024/07/31 13:26:52] recover environ 42 42
+[2024/07/31 13:26:52] recover success, argc=1 evecve </home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 13:26:52] =========EXECVE ARGS BEGIN===========
+[2024/07/31 13:26:52] argv[0]=</home/manuelguerra/Descargas/ventoy-build/tool/x86_64/Ventoy2Disk.gtk3>
+[2024/07/31 13:26:52] =========EXECVE ARGS END===========
+[2024/07/31 13:26:52] ================================================
+[2024/07/31 13:26:52] ===== Ventoy2Disk 1.0.99 powered by GTK3.x =====
+[2024/07/31 13:26:52] ================================================
+[2024/07/31 13:26:52] log file is <log.txt> lastsize:68739
+[2024/07/31 13:26:52] ini file is <./Ventoy2Disk.ini>
+[2024/07/31 13:26:52] ventoy_disk_enumerate_all
+[2024/07/31 13:26:52] get disk info sda
+[2024/07/31 13:26:52] is 4k native disk <sda> <0>
+[2024/07/31 13:26:52] get disk size from sysfs for sda
+[2024/07/31 13:26:52] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 13:26:52] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 13:26:52] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 13:26:52] /dev/sda NO Ventoy detected
+[2024/07/31 13:26:52] ============= DISK DUMP ============
+[2024/07/31 13:26:52] /dev/sda [30 GB] ATA QEMU HARDDISK (scsi)	Ventoy: NA
+[2024/07/31 13:26:52] on_init_window ...
+[2024/07/31 13:26:52] load_languages ...
+[2024/07/31 13:26:52] current language <English (English)>
+[2024/07/31 13:26:52] fill_dev_list total disk: 1 showall:0
+[2024/07/31 13:26:52] combox count:0, no active id
+[2024/07/31 13:26:52] invalid active combox id -1
+[2024/07/31 13:26:55] ventoy_disk_enumerate_all
+[2024/07/31 13:26:55] get disk info sda
+[2024/07/31 13:26:55] is 4k native disk <sda> <0>
+[2024/07/31 13:26:55] get disk size from sysfs for sda
+[2024/07/31 13:26:55] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 13:26:55] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 13:26:55] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 13:26:55] /dev/sda NO Ventoy detected
+[2024/07/31 13:26:55] fill_dev_list total disk: 1 showall:0
+[2024/07/31 13:26:55] combox count:0, no active id
+[2024/07/31 13:26:55] invalid active combox id -1
+[2024/07/31 13:26:56] ventoy_disk_enumerate_all
+[2024/07/31 13:26:56] get disk info sda
+[2024/07/31 13:26:56] is 4k native disk <sda> <0>
+[2024/07/31 13:26:56] get disk size from sysfs for sda
+[2024/07/31 13:26:56] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 13:26:56] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 13:26:56] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 13:26:56] /dev/sda NO Ventoy detected
+[2024/07/31 13:26:56] fill_dev_list total disk: 1 showall:0
+[2024/07/31 13:26:56] combox count:0, no active id
+[2024/07/31 13:26:56] invalid active combox id -1
+[2024/07/31 13:27:14] ventoy_disk_enumerate_all
+[2024/07/31 13:27:14] get disk info sda
+[2024/07/31 13:27:14] is 4k native disk <sda> <0>
+[2024/07/31 13:27:14] get disk size from sysfs for sda
+[2024/07/31 13:27:14] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 13:27:14] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 13:27:14] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 13:27:14] /dev/sda NO Ventoy detected
+[2024/07/31 13:27:14] fill_dev_list total disk: 1 showall:0
+[2024/07/31 13:27:14] combox count:0, no active id
+[2024/07/31 13:27:14] invalid active combox id -1
+[2024/07/31 13:27:15] ventoy_disk_enumerate_all
+[2024/07/31 13:27:15] get disk info sda
+[2024/07/31 13:27:15] is 4k native disk <sda> <0>
+[2024/07/31 13:27:15] get disk size from sysfs for sda
+[2024/07/31 13:27:15] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 13:27:15] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 13:27:15] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 13:27:15] /dev/sda NO Ventoy detected
+[2024/07/31 13:27:15] fill_dev_list total disk: 1 showall:0
+[2024/07/31 13:27:15] combox count:0, no active id
+[2024/07/31 13:27:15] invalid active combox id -1
+[2024/07/31 13:27:15] ventoy_disk_enumerate_all
+[2024/07/31 13:27:15] get disk info sda
+[2024/07/31 13:27:15] is 4k native disk <sda> <0>
+[2024/07/31 13:27:15] get disk size from sysfs for sda
+[2024/07/31 13:27:15] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 13:27:15] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 13:27:15] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 13:27:15] /dev/sda NO Ventoy detected
+[2024/07/31 13:27:15] fill_dev_list total disk: 1 showall:0
+[2024/07/31 13:27:15] combox count:0, no active id
+[2024/07/31 13:27:15] invalid active combox id -1
+[2024/07/31 13:27:15] ventoy_disk_enumerate_all
+[2024/07/31 13:27:15] get disk info sda
+[2024/07/31 13:27:15] is 4k native disk <sda> <0>
+[2024/07/31 13:27:15] get disk size from sysfs for sda
+[2024/07/31 13:27:15] ventoy_get_vtoy_data /dev/sda
+[2024/07/31 13:27:15] Not valid ventoy partition layout [2048 21604352] [21608446 41304066]
+[2024/07/31 13:27:15] disk:</dev/sda 8:0> model:<ATA QEMU HARDDISK (scsi)> size:32212254720 (30 GB)
+[2024/07/31 13:27:15] /dev/sda NO Ventoy detected
+[2024/07/31 13:27:15] fill_dev_list total disk: 1 showall:0
+[2024/07/31 13:27:15] combox count:0, no active id
+[2024/07/31 13:27:15] invalid active combox id -1
+[2024/07/31 13:27:19] on_exit_window ...
+[2024/07/31 13:27:19] ######## Ventoy2Disk GTK 1.0.99 exit ########
