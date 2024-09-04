@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ventoy
+Comment=Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files
+Exec=/opt/ventoy/ventoygui
+Icon=ventoy
+Terminal=false
+Type=Application
+Categories=System;

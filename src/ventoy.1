@@ -1,0 +1,130 @@
+.TH Ventoy 1 "September 2024" "Version 1.0" "Ventoy Manual"
+.SH NAME
+Ventoy \- An open-source tool to create bootable USB drives
+
+.SH SYNOPSIS
+.B Ventoy
+is an open-source tool to create bootable USB drives for ISO/WIM/IMG/VHD(x)/EFI files.
+
+.SH DESCRIPTION
+With Ventoy, you don't need to format the disk repeatedly. You simply copy the image files to the USB drive and boot it. Ventoy supports copying multiple image files at once and provides a boot menu to select them. You can also browse ISO/WIM/IMG/VHD(x)/EFI files on local disks and boot them directly.
+
+Ventoy supports the following platforms:
+.IP \[bu] 2
+x86 Legacy BIOS
+.IP \[bu] 2
+IA32 UEFI
+.IP \[bu] 2
+x86_64 UEFI
+.IP \[bu] 2
+ARM64 UEFI
+.IP \[bu] 2
+MIPS64EL UEFI
+
+Both MBR and GPT partition styles are supported, and Ventoy works the same way on both.
+
+.SH TESTED OS
+The following operating systems have been tested with Ventoy:
+
+.IP \[bu] 2
+.B Windows:
+Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11, Windows Server 2012, Windows Server 2012 R2, Windows Server 2016, Windows Server 2019, Windows Server 2022, WinPE
+
+.IP \[bu] 2
+.B Linux:
+Debian, Ubuntu, CentOS, RHEL, Fedora, Rocky Linux, AlmaLinux, and many others.
+
+.IP \[bu] 2
+.B Unix:
+DragonFly, FreeBSD, pfSense, GhostBSD, and others.
+
+.IP \[bu] 2
+.B ChromeOS:
+FydeOS, CloudReady, ChromeOS Flex
+
+.IP \[bu] 2
+.B Other:
+VMware ESXi, Citrix XenServer, Xen XCP-ng
+
+.SH FEATURES
+Ventoy offers a variety of features:
+.IP \[bu] 2
+100% open-source
+.IP \[bu] 2
+Simple to use
+.IP \[bu] 2
+Fast (limited by the speed of copying ISO files)
+.IP \[bu] 2
+Can be installed on USB/Local Disk/SSD/NVMe/SD Card
+.IP \[bu] 2
+Direct boot from ISO/WIM/IMG/VHD(x)/EFI files without extraction
+.IP \[bu] 2
+Supports browsing and booting ISO/WIM/IMG/VHD(x)/EFI files on local disks
+.IP \[bu] 2
+Supports MBR and GPT partition styles (1.0.15+)
+.IP \[bu] 2
+Supports x86 Legacy BIOS, IA32 UEFI, x86_64 UEFI, ARM64 UEFI, and MIPS64EL UEFI
+.IP \[bu] 2
+IA32/x86_64 UEFI Secure Boot supported (1.0.07+)
+.IP \[bu] 2
+Supports Linux Persistence (1.0.11+)
+.IP \[bu] 2
+Supports Windows and Linux auto-installation (1.0.09+)
+.IP \[bu] 2
+Supports Variables Expansion for auto-installation scripts
+.IP \[bu] 2
+Supports multiple file systems: FAT32/exFAT/NTFS/UDF/XFS/Ext2(3)(4)
+.IP \[bu] 2
+Supports ISO files larger than 4GB
+.IP \[bu] 2
+Menu alias, Menu tip message supported
+.IP \[bu] 2
+Password protection supported
+.IP \[bu] 2
+Native boot menu style for Legacy & UEFI
+.IP \[bu] 2
+Supports most types of OS (1200+ ISO files tested)
+.IP \[bu] 2
+Linux vDisk boot supported
+.IP \[bu] 2
+Complete installation process supported
+.IP \[bu] 2
+Menu dynamically switchable between List/TreeView mode
+.IP \[bu] 2
+"Ventoy Compatible" concept
+.IP \[bu] 2
+Plugin Framework and GUI plugin configurator
+.IP \[bu] 2
+Injection files to runtime environment
+.IP \[bu] 2
+Boot configuration file dynamically replaceable
+.IP \[bu] 2
+Highly customizable theme and menu
+.IP \[bu] 2
+USB drive write-protection supported
+.IP \[bu] 2
+No effect on USB normal use
+.IP \[bu] 2
+Data non-destructive during version upgrade
+.IP \[bu] 2
+No need to update Ventoy when a new distro is released
+
+.SH SECURE BOOT IN UEFI MODE
+Secure Boot support was introduced in Ventoy 1.0.07. The option for secure boot can be enabled in Ventoy2Disk.exe or Ventoy2Disk.sh using the Menu Option-->Secure Boot Support for Ventoy2Disk.exe or the -s option for Ventoy2Disk.sh.
+
+This option has been enabled by default since version 1.0.76. With this feature enabled, Ventoy should boot fine regardless of whether Secure Boot is enabled or disabled in the BIOS.
+
+However, if you encounter an error screen instead of the expected blue screen (e.g., Linpus lite xxxx), this indicates that the Secure Boot solution is not compatible with your machine. In this case, you must disable Secure Boot in the BIOS.
+
+.SH GUID FOR VENTOY WITH SECURE BOOT IN UEFI
+These steps only need to be performed once per computer when booting Ventoy for the first time.
+
+.IP \[bu] 2
+There are two methods: Enroll Key and Enroll Hash. Use whichever one is applicable.
+
+.SH SEE ALSO
+.BR ventoy.net
+
+.SH AUTHOR
+Ventoy is developed and maintained by the Ventoy community.
+
