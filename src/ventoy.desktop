@@ -5,4 +5,5 @@ Exec=/opt/ventoy/ventoygui
 Icon=ventoy
 Terminal=false
 Type=Application
-Categories=System;
+Categories=Utility;
+Keywords=boot;USB;ISO;WIM;IMG;VHD;EFI;create;
