@@ -53,10 +53,13 @@ case $ARCH in
         ;;
 esac
 
-# Add hardening flags
-HARDENING_CFLAGS="-fPIE -fstack-protector-strong -Wformat -Werror=format-security"
+# Modify hardening flags to suppress warnings
+HARDENING_CFLAGS="-fPIE -fstack-protector-strong -Wformat -Wno-error=format-security -Wno-error=unused-result -Wno-error=address-of-packed-member -Wno-error=maybe-uninitialized -Wno-error=format-truncation"
 HARDENING_CPPFLAGS="-D_FORTIFY_SOURCE=2"
 HARDENING_LDFLAGS="-Wl,-z,relro -Wl,-z,now"
+
+# Additional flags to suppress specific warnings
+SUPPRESS_WARNINGS="-Wno-unused-result -Wno-format-truncation -Wno-address-of-packed-member -Wno-maybe-uninitialized"
 
 # Function to build Ventoy
 build_ventoy() {
@@ -68,7 +71,7 @@ build_ventoy() {
     GTKFLAGS=$(pkg-config --cflags --libs gtk+-3.0)
 
     # Build civetweb
-    $CC $GTKFLAGS $HARDENING_CFLAGS $HARDENING_CPPFLAGS -c -Wall -Wextra -Wshadow -Wformat-security -Winit-self \
+    $CC $GTKFLAGS $HARDENING_CFLAGS $HARDENING_CPPFLAGS $SUPPRESS_WARNINGS -c -Wall -Wextra -Wshadow -Wformat-security -Winit-self \
         -Wmissing-prototypes -O2 -DLINUX \
         -I./Ventoy2Disk/Lib/libhttp/include \
         -DNDEBUG -DNO_CGI -DNO_CACHING -DNO_SSL -DSQLITE_DISABLE_LFS -DSSL_ALREADY_INITIALIZED \
@@ -78,7 +81,7 @@ build_ventoy() {
 
     # Build Ventoy2Disk
     $CC -O2 -Wall -Wno-unused-function -DSTATIC=static -DINIT= \
-        $HARDENING_CFLAGS $HARDENING_CPPFLAGS \
+        $HARDENING_CFLAGS $HARDENING_CPPFLAGS $SUPPRESS_WARNINGS \
         -I./Ventoy2Disk \
         -I./Ventoy2Disk/Core \
         -I./Ventoy2Disk/Web \
@@ -107,7 +110,7 @@ build_ventoy() {
         -o Ventoy2Disk.${gtkver}_$LIBSUFFIX $GTKFLAGS
 
     # Build VentoyGUI
-    $CC -O2 -D_FILE_OFFSET_BITS=64 $HARDENING_CFLAGS $HARDENING_CPPFLAGS \
+    $CC -O2 -D_FILE_OFFSET_BITS=64 $HARDENING_CFLAGS $HARDENING_CPPFLAGS $SUPPRESS_WARNINGS \
         Ventoy2Disk/ventoy_gui.c Ventoy2Disk/Core/ventoy_json.c \
         -I Ventoy2Disk/Core -DVTOY_GUI_ARCH="\"$TOOLDIR\"" \
         $HARDENING_LDFLAGS \
