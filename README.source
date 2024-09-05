@@ -1,0 +1,49 @@
+README.source for Ventoy
+========================
+
+This package contains the Ventoy software, an open-source tool to create bootable
+USB drives for ISO/WIM/IMG/VHD(x)/EFI files.
+
+Source code
+-----------
+The source code for Ventoy is available from the upstream repository:
+https://github.com/ventoy/Ventoy
+
+The release source code for Ventoy is available from the upstream website:
+https://www.ventoy.net
+
+Binary precompiled files
+------------------------
+This package includes four binary precompiled files in the source code
+provided by the upstream author:
+
+Two in the `boot/` directory
+  - boot.img
+  - core.img.xz
+
+Two in the 'ventoy/' directory
+  - ventoy.disk.img.xz
+  - ventoy_4k.disk.img.xz
+
+These files are required for Ventoy's boot process and are distributed upstream
+without the corresponding source code. According to the upstream maintainers,
+these files are integral to the functionality of the project but the source code
+or build instructions are not provided. We have attempted to contact upstream
+for further clarification but have not received the source code at the time of
+this packaging.
+
+These precompiled binaries are the reason this package is distributed in the
+`non-free` section of Debian. Users should be aware that these files cannot be
+rebuilt from source, and any modifications to these files would require direct
+intervention from the upstream maintainers.
+
+If the upstream project provides the source code in the future, we will update
+the package accordingly to move it to the `main` section of Debian.
+
+Licensing
+---------
+The source code of Ventoy is licensed under the GPL-3+, and details of the
+licensing can be found in the `debian/copyright` file. This licensing includes
+the pre-compiled binaries described in this file.
+
+Please see the `debian/copyright` file for more details.
